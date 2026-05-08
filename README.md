@@ -58,8 +58,8 @@ If there’s a battle to fight—code or competitive—I’m in. Always ready to
 ### 2. **AutoFlowWellCap-FlowSmarter**  
    🔐 Created an innovative solution designed to address the challenges associated with **artesian wells**, where water flows naturally due to underground pressure.
 
-### 3. **CIDMessageHunter**  
-   🌎 An advanced **steganography** tool that hides encrypted messages within images.
+### 3. **EasyView-Clarity for Every Brain**  
+   🌎 An AI-powered Chrome extension designed for neurodivergent users, including individuals with dyslexia, ADHD, and sensory sensitivities.
 
 ### 4. **VoteXpress-Your Vote, Verified in a Snap**  
    🏥  An innovative solution designed to streamline the voter verification process at polling booths using **Advanced Steganography Scanning & Decryption**.
@@ -73,15 +73,26 @@ If there’s a battle to fight—code or competitive—I’m in. Always ready to
 
 - 🏆 Winner – Smart India Hackathon 2024 (PSID: 1570)
 - 🏆 Winner – ArtEvo Hackathon 2024 (Futurense)
+- 🏆 Winner – 15+ National Hackathon & Top Rankings across GDG & University Hackathons
 - 📚 Selected – AIU Anveshan 2024, North Zone Student Research Convention
 - 💡 Nominated – IDE Bootcamp (AICTE & MIC), 2nd Edition
 - 🔥 Top 500 out of 25,000+ teams – Built With India Hackathon 2024
 - 🎯 Selected – Internal Smart India Hackathon 2025
-- 🤖 Finalist – Google Cloud Gen AI Exchange Hackathon 2025\
+- 🤖 Finalist – Google Cloud Gen AI Exchange Hackathon 2025
+- 📃Shortlisted- AWS AI FOR BHARAT HACKATHON-Prototype Development Phase
 - 📰 Featured in Newspapers: Dainik Bhaskar, Punjab Kesari, etc.
 
 
+## 🎤 Invited Mentor & Speaker:
+- Distinguished Mentor – SIH 2025 Mentoring Session (Ekume Club, NIET)
+- Mentor Speaker – SIH 2025 Masterclass (Growbinar, via Eventeye)
+- Featured Guest – “Success Stories of SIH” Podcast
+- Collaboration – CodeYatri (SIH strategy & guidance session)
 
+## 📢 Community Contribution:
+- Conducted Cybersecurity Awareness sessions in schools
+- Personally guided 200+ students for hackathons & LinkedIn growth
+- Actively support builder communities & innovation ecosystems
 
 ---
 ## 🔍 Current Focus
