@@ -101,12 +101,6 @@ Mastering **AI engineering** to represent my country on the **global stage**—t
 
 ---
 
-## 🎮 Fun Fact
-
-When I'm not coding, you'll find me exploring new **music genres** or playing **strategy games**. I'm always up for a challenge, whether it's in tech or on the gaming battlefield! 🎶🎮
-
----
-
 ## 🤝 Let's Connect!
 
 I’m excited to collaborate on innovative projects that bridge **technology** and **impact**. Feel free to connect with me!
