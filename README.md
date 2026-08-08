@@ -95,11 +95,6 @@ If there’s a battle to fight—code or competitive—I’m in. Always ready to
 - Actively support builder communities & innovation ecosystems
 
 ---
-## 🔍 Current Focus
-
-Mastering **AI engineering** to represent my country on the **global stage**—through technology, innovation, and every skill I have.
-
----
 
 ## 🤝 Let's Connect!
 
