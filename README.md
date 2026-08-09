@@ -101,8 +101,8 @@ If there’s a battle to fight—code or competitive—I’m in. Always ready to
 I’m excited to collaborate on innovative projects that bridge **technology** and **impact**. Feel free to connect with me!
 
 - 💻 [LinkedIn](https://linkedin.com/in/-apoorv-)  
-- 📧 [Email](apoorv041@gmail.com)  
-- 🐦 [Twitter](#)  
+- 📧 [Email](apoorvgupta.in@gmail.com)  
+- 🐦 [Twitter](https://x.com/think_apoorv?s=11)  
 - 🌐 [Portfolio](#)
 
 ---
