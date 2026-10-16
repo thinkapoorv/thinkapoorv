@@ -74,7 +74,7 @@
       <ul>
         <li>⚡ <b>Pathway AI Engine</b><br/>5+ Core PRs merged (Rust/Python)</li>
         <li>📜 <b>3x Patents Published</b><br/>(+ 2 in pipeline) IoT & Security</li>
-        <li>🔬 <b>AIU Anveshan 2024</b><br/>Zonal Delegate (Top 3 LPU Project/700+ devs)</li>
+        <li>🔬 <b>AIU Anveshan 2024</b><br/>Zonal Delegate (Top 3 LPU Project, 700+ dev)</li>
         <li>💡 <b>IDE Bootcamp Nominee</b><br/>Selected by AICTE & MIC</li>
       </ul>
     </td>
@@ -127,8 +127,8 @@
 
 | Core Competency | Production Technologies & Tooling |
 | :--- | :--- |
-| **🧠 Applied AI, ML & Agentic Systems** | `LangGraph` `LangChain` `MCP` `Google Vertex AI` `PyTorch` `Hugging Face` `Scikit-Learn` `ONNX Runtime` |
-| **⚡ Real-Time Stream AI & Retrieval** | `Pathway (Rust/Python Engine)` `GraphRAG` `Qdrant` `pgvector` `ColBERT` `Kafka` |
+| **🧠 AI, ML & Agents** | `LangGraph` `LangChain` `MCP` `Google Vertex AI` `PyTorch` `Hugging Face` `Scikit-Learn` `ONNX Runtime` |
+| **⚡ Streaming & Retrieval** | `Pathway (Rust/Python Engine)` `GraphRAG` `Qdrant` `pgvector` `ColBERT` `Kafka` |
 | **⚙️ Full-Stack Engineering & Cloud** | `Python` `Rust` `C++` `FastAPI` `Next.js` `TypeScript` `GCP` `AWS` `Docker` `Supabase` |
 
 </div>
@@ -137,7 +137,7 @@
 <div align="center">
   <br/>
   <b><i>“Turning thoughts into tech, and prototypes into production.”</i></b>
-  
+    <br/>
   <img src="./signature.svg" width="220" alt="ThinkApoorv" />
   <br/>
 </div>
