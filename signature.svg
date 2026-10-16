@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 180" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&amp;display=swap');
+      .sig-text {
+        font-family: 'Caveat', cursive, sans-serif;
+        font-size: 96px;
+        font-weight: 600;
+        fill: #FFFFFF;
+        font-style: italic;
+      }
+      .sig-line {
+        stroke: #2DF700;
+        stroke-width: 4;
+        stroke-linecap: round;
+        opacity: 0.95;
+      }
+    </style>
+  </defs>
+  
+  <!-- Cursive Handwritten Signature centered with generous bounding box -->
+  <text x="350" y="105" text-anchor="middle" class="sig-text">ThinkApoorv</text>
+  
+  <!-- Stylized Signature Underline stretching from under 'T' to past 'v' -->
+  <path d="M 170 135 Q 350 120 530 128" fill="none" class="sig-line" />
+</svg>
