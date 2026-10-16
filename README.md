@@ -49,7 +49,7 @@
 ```
 
 <a href="https://github.com/thinkapoorv">
-  <img src="https://streak-stats.demolab.com/?user=thinkapoorv&theme=tokyonight&hide_border=true&border_radius=12&mode=daily" width="85%" alt="Live GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thinkapoorv&theme=tokyonight&hide_border=true&border_radius=12&mode=daily" style="max-width: 100%; width: 85%; height: auto;" width="85%" alt="Live GitHub Streak" />
 </a>
 
 </div>
@@ -94,7 +94,7 @@
 
 ## 🛸 Deployed Architectures & Flagships
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <b>01 // <a href="https://github.com/thinkapoorv">EasyView</a></b> &nbsp;<code>Chrome Extension</code> <code>NLP</code> <code>Edge AI</code>
@@ -138,6 +138,6 @@
   <br/>
   <b><i>“Turning thoughts into tech, and prototypes into production.”</i></b>
     <br/>
-  <img src="./signature.svg" width="220" alt="ThinkApoorv" />
+  <img src="./signature.svg" style="max-width: 90%; height: auto;" width="220" alt="ThinkApoorv" />
   <br/>
 </div>
