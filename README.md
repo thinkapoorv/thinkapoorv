@@ -41,7 +41,7 @@
 │  OPERATOR     : Apoorv Gupta (@thinkapoorv)                                    │
 │  SYS_KERNEL   : ThinkTech AI Engine v3.0 (B.Tech AI & Data Engineering)        │
 │  LIVE_BUILD   : EasyView (Neuro-Adaptive Browser Extension)                    │
-│  TRACTION     : 200+ Active Users across Google, Microsoft, Amazon, Zomato    │
+│  TRACTION     : 200+ Active Users across Google, Microsoft, Amazon, Zomato     │
 │  CONTRIBUTIONS: Pathway AI Core (5+ Merged PRs in Rust/Python engine)          │
 │  INTELLECTUAL : 3x Patents Published (+ 2 in pipeline)                         │
 │  RUNNING_DAGS : Real-time Streaming RAG • Multi-Agent Autonomous Orchestration │
@@ -97,23 +97,23 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>01 // <a href="https://github.com/thinkapoorv">EasyView</a></b> &nbsp;<code>Chrome Extension</code> <code>NLP</code> <code>Edge AI</code>
+      <b>01 // <a href="https://github.com/thinkapoorv/EasyView">EasyView</a></b> &nbsp;<code>Chrome Extension</code> <code>NLP</code> <code>Edge AI</code>
       <br/><b>⚡ 200+ Active Users across Google, Microsoft, Amazon, Zomato & more</b>
       <p>AI-driven neuro-adaptive browser extension that dynamically reformats dense web interfaces in real-time for ADHD, dyslexia, and sensory sensitivity.</p>
     </td>
     <td width="50%" valign="top">
-      <b>02 // <a href="https://github.com/thinkapoorv">Pathway AI Streaming Engine</a></b> &nbsp;<code>Rust</code> <code>Python</code> <code>Stream AI</code>
+      <b>02 // <a href="https://github.com/pathwaycom/pathway">Pathway AI Streaming Engine</a></b> &nbsp;<code>Rust</code> <code>Python</code> <code>Stream AI</code>
       <br/><b>⚡ 5+ Merged PRs into Production Engine</b>
       <p>Engineered streaming AI infrastructure pipelines, ultra-low latency RAG connectors, and high-throughput real-time vector indexing workflows.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>03 // <a href="https://github.com/thinkapoorv">KalaMitra</a></b> &nbsp;<code>Multi-Agent</code> <code>Next.js</code> <code>Supabase</code>
+      <b>03 // <a href="https://github.com/thinkapoorv/KalaMitra">KalaMitra</a></b> &nbsp;<code>Multi-Agent</code> <code>Next.js</code> <code>Supabase</code>
       <p>AI-driven decentralized artisanal commerce platform featuring neural dynamic pricing agents, automated digital authentication, and global market access.</p>
     </td>
     <td width="50%" valign="top">
-      <b>04 // <a href="https://github.com/thinkapoorv">AutoFlowWellCap</a></b> &nbsp;<code>IoT</code> <code>Embedded C++</code> <code>Patented</code>
+      <b>04 // <a href="https://github.com/thinkapoorv/AutoFlowWellCap-FlowSmarter">AutoFlowWellCap</a></b> &nbsp;<code>IoT</code> <code>Embedded C++</code> <code>Patented</code>
       <p>Patented automated hydrological pressure relief and telemetry system engineered to mitigate artesian well runaway flow and water table depletion.</p>
     </td>
   </tr>
